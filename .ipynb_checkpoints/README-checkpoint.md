@@ -2,7 +2,11 @@
 
 ![Risk](image.jpg?raw=true "Risk")
 
+## Overview
+
 In this repository, SparkSQL is used to determine key metrics about home sales data. Spark was also used to create temporary views, partition the data, cache and uncache a temporary table, and verify that the table has been uncached.
+
+------------------------------------
 
 #### The following questions were asked:
 
